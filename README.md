@@ -9,7 +9,7 @@ In this work, we showed that MLE as an object to train text generation models te
 To illustrate this, below we give a toy experiment of fitting a single Gaussian using KLD and TVD to a mixture of two Gaussians where KLD is sensitive to outliers while TVD is robust.
 
 <div align="center">
-  <img src="imgs/toy.png" width="400px" />
+  <img src="imgs/toy.png" width="350px" />
 </div>
 
 ## Prerequisites
