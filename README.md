@@ -67,7 +67,7 @@ bash binarize.sh data/coco_pseudo \
 ```
 The result will be saved in `data/coco_pseudo-bin`.
 
-We also provide the the [checkpoint](https://drive.google.com/file/d/1B8P4sQ_FBnh0OtiSRM10aCgdJh9mN5l0/view?usp=sharing) of the oracle model and the [synthetic dataset](https://drive.google.com/file/d/1VB2RLi0Z8_6Mmjp8H1e7brZLi04XnABe/view?usp=sharing).
+We also provide the [checkpoint](https://drive.google.com/file/d/1B8P4sQ_FBnh0OtiSRM10aCgdJh9mN5l0/view?usp=sharing) of the oracle model and the [synthetic dataset](https://drive.google.com/file/d/1VB2RLi0Z8_6Mmjp8H1e7brZLi04XnABe/view?usp=sharing).
 
 ### Train
 
